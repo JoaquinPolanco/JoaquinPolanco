@@ -14,6 +14,7 @@ Lenguajes:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
 </p>
+
 Base de Datos:
 
 <p>
@@ -26,6 +27,7 @@ Base de Datos:
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 </p>
+
 Sistemas Operativos:
 
 <p>
@@ -34,6 +36,7 @@ Sistemas Operativos:
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25">
 </p>
+
 Control de Versiones y Frameworks:
 
 <p>
@@ -43,6 +46,7 @@ Control de Versiones y Frameworks:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="25">
 </p>
+
 Conéctate conmigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADnpolanco199726/)
