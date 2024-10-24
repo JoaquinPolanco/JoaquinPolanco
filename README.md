@@ -1,6 +1,8 @@
 ## Licenciado En Sistemas Informaticos Administrativos | Desarrollador FullStack 👋
 Tecnologías que uso:
+
 Lenguajes:
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
@@ -13,6 +15,7 @@ Lenguajes:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
 </p>
 Base de Datos:
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/SQL_Developer-007396?style=for-the-badge&logo=oracle&logoColor=white" height="25">
@@ -24,6 +27,7 @@ Base de Datos:
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 </p>
 Sistemas Operativos:
+
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25">
@@ -31,6 +35,7 @@ Sistemas Operativos:
   <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25">
 </p>
 Control de Versiones y Frameworks:
+
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
